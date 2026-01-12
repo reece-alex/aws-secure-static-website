@@ -23,7 +23,7 @@ This project deploys a secure static website using:
 ## High-Level Architecture
 User → CloudFront (HTTPS) → S3 (Private Bucket)
 
-##Security:
+## Security:
 - AWS WAF attached to CloudFront
 - CloudWatch logging enabled
 
