@@ -28,8 +28,8 @@ Security:
 - CloudWatch logging enabled
 
 ## Project Status
-- [x ] Repository setup
-- [x ] Architecture diagram
+- [x] Repository setup
+- [x] Architecture diagram
 - [ ] S3 configuration
 - [ ] CloudFront distribution
 - [ ] ACM certificate
