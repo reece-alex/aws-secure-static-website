@@ -1,15 +1,22 @@
 # website configuration
 
+
 ## S3 Bucket configuration
+
 
 ### Bucket overview
 ![S3 Bucket overview](https://github.com/reece-alex/aws-secure-static-website/blob/e8d358e479080c0038cf56cb3e023ad9b72d923d/images/Screenshot%202026-01-21%20105701.png)
 
  S3 bucket used to host the static website.Since im based in Cape Town i have chosen to host my S3 bucket in region Africa(Cape Town) Af-south-1 for lower latency.
 
+
  ### Bucket Permissions
  ![S3 bucket Permissions](https://github.com/reece-alex/aws-secure-static-website/blob/3ded2841f41e3de7ac6f35e733b11e6d069ca9f3/images/Screenshot%202026-01-21%20150519.png)
 
+
+
+### Bucket Policy
+![S3 Bucket Policy](https://github.com/reece-alex/aws-secure-static-website/blob/30952e034988bf7c91cec56bae74f21f783d5af2/images/Screenshot%202026-01-21%20110413.png)
 
 ## CloudFront Distribution  
 Overview of CloudFront distribution settings, including HTTPS enforcement.
