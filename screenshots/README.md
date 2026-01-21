@@ -18,6 +18,11 @@
 ### Bucket Policy
 ![S3 Bucket Policy](https://github.com/reece-alex/aws-secure-static-website/blob/30952e034988bf7c91cec56bae74f21f783d5af2/images/Screenshot%202026-01-21%20110413.png)
 
+
+### Static Website Hosting Settings
+![Hosting settings](https://github.com/reece-alex/aws-secure-static-website/blob/55014cb648f5d2dddd83031452d5b9c7e652f668/images/Screenshot%202026-01-21%20105904.png)
+
+
 ## CloudFront Distribution  
 Overview of CloudFront distribution settings, including HTTPS enforcement.
 
