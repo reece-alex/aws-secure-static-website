@@ -3,7 +3,7 @@
 ## S3 Bucket Settings  
 Screenshot showing the S3 bucket configuration with public access blocked.
 
-![S3 Bucket Settings](./s3-bucket-settings.png)
+![S3 Bucket overview ]( )
 
 ## CloudFront Distribution  
 Overview of CloudFront distribution settings, including HTTPS enforcement.
