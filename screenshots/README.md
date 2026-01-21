@@ -1,9 +1,9 @@
-# AWS Setup Screenshots
+# website configuration
 
-## S3 Bucket Settings  
-Screenshot showing the S3 bucket configuration with public access blocked.
-
+## S3 Bucket configuration 
 ![S3 Bucket overview](https://github.com/reece-alex/aws-secure-static-website/blob/e8d358e479080c0038cf56cb3e023ad9b72d923d/images/Screenshot%202026-01-21%20105701.png)
+
+ S3 bucket used to host the static website.Since im based in Cape Town i have chosen to host my S3 bucket in region Africa(Cape Town) Af-south-1 for lower latency.
 
 
 ## CloudFront Distribution  
