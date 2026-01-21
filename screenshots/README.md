@@ -23,6 +23,9 @@
 ![Hosting settings](https://github.com/reece-alex/aws-secure-static-website/blob/55014cb648f5d2dddd83031452d5b9c7e652f668/images/Screenshot%202026-01-21%20105904.png)
 
 
+### Objects(my website file)
+![static website file](https://github.com/reece-alex/aws-secure-static-website/blob/8532c5ed4faaaaed409cb8412f14cf8ea73799de/images/Screenshot%202026-01-21%20153035.png)
+
 ## CloudFront Distribution  
 Overview of CloudFront distribution settings, including HTTPS enforcement.
 
