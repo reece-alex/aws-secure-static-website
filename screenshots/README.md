@@ -26,6 +26,10 @@
 ### Objects(my website file)
 ![static website file](https://github.com/reece-alex/aws-secure-static-website/blob/8532c5ed4faaaaed409cb8412f14cf8ea73799de/images/Screenshot%202026-01-21%20153035.png)
 
+### Website end point in browser
+![succesful deployment](https://github.com/reece-alex/aws-secure-static-website/blob/603b14af471903fdc654c7b52689b38593458313/images/Screenshot%202026-01-21%20103549.png)
+
+
 ## CloudFront Distribution  
 Overview of CloudFront distribution settings, including HTTPS enforcement.
 
