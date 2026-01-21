@@ -8,7 +8,7 @@
  S3 bucket used to host the static website.Since im based in Cape Town i have chosen to host my S3 bucket in region Africa(Cape Town) Af-south-1 for lower latency.
 
  ### Bucket Permissions
- ![S3 bucket Permissions]()
+ ![S3 bucket Permissions](https://github.com/reece-alex/aws-secure-static-website/blob/3ded2841f41e3de7ac6f35e733b11e6d069ca9f3/images/Screenshot%202026-01-21%20150519.png)
 
 
 ## CloudFront Distribution  
