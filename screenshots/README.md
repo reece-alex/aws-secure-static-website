@@ -3,7 +3,7 @@
 ## S3 Bucket Settings  
 Screenshot showing the S3 bucket configuration with public access blocked.
 
-![S3 Bucket overview](<Screenshot 2026-01-21 105701.png>)
+![S3 Bucket overview](https://github.com/reece-alex/aws-secure-static-website/blob/e8d358e479080c0038cf56cb3e023ad9b72d923d/images/Screenshot%202026-01-21%20105701.png)
 
 
 ## CloudFront Distribution  
