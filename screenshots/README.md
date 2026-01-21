@@ -1,9 +1,14 @@
 # website configuration
 
-## S3 Bucket configuration 
+## S3 Bucket configuration
+
+### Bucket overview
 ![S3 Bucket overview](https://github.com/reece-alex/aws-secure-static-website/blob/e8d358e479080c0038cf56cb3e023ad9b72d923d/images/Screenshot%202026-01-21%20105701.png)
 
  S3 bucket used to host the static website.Since im based in Cape Town i have chosen to host my S3 bucket in region Africa(Cape Town) Af-south-1 for lower latency.
+
+ ### Bucket Permissions
+ ![S3 bucket Permissions]()
 
 
 ## CloudFront Distribution  
